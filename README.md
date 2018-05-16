@@ -1,7 +1,7 @@
 # Song to Beat Data
 
 This project converts a song into an unlabelled dataset which can be used for other purposes.
-This project uses [Aubio module](https://github.com/aubio/aubio) by @aubio.
+This project uses [Aubio module](https://github.com/aubio/aubio) by @aubio .
 
 ## song_to_data.py
 
@@ -38,7 +38,7 @@ You require aubio module.
 
 To run the converter
 
-> python2 song_to_data.py <Name of the music file>
+> python2 song_to_data.py \<Name of the music file\>
 
 To run the data_verifier
 
